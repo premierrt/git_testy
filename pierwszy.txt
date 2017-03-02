@@ -1,2 +1,2 @@
 Pierwsza linia oryginal
-Druga linia oryginal
+Druga linia oryginal - tutaj dodaje tekst
