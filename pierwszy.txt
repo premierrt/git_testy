@@ -1,2 +1,3 @@
 Pierwsza linia oryginal
 Druga linia oryginal - tutaj dodaje tekst
+to jest feature_pierwszy
